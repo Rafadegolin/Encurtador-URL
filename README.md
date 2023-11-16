@@ -1,6 +1,6 @@
 # Encurtador de URL / URL Shortener
 
-> Projeto de um aplicativo que simplismente faz o encurtamento de uma URL.
+> Projeto de um aplicativo que simplesmente faz o encurtamento de uma URL, utilizando uma API para realizar a conversão da URL.
 >
 > Você cola o link que deseja encurtar no primeiro campo e clica em "Encurte!". No último campo de texto será mostrado a URL encurtada.
 >
