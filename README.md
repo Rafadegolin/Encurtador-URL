@@ -15,5 +15,5 @@ Da uma olhada na aba [Releases](https://github.com/Rafadegolin/Encurtador-URL/re
 ## License/Licença do Projeto
 [MIT License](./LICENSE) © [Rafael Degolin](https://github.com/Rafadegolin)
 
-## Clique aqui para jogar:
+## Clique aqui para experimentar:
 [Encurtador URL](https://rafadegolin.github.io/Encurtador-URL/)
